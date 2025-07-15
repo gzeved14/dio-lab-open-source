@@ -6,8 +6,8 @@
 </p>
 
 <h2>Sobre mim!</h2>
-<img align='right' src="https://awesome-github-stats.azurewebsites.net/user-stats/gzeved14?cardType=level&theme=dracula&preferLogin=false" width=400/>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel Azevedo&color=f8efd4&style=for-the-badge&logo=GitHub"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gzeved14&show_icons=true&theme=dracula" width="400"/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel-Azevedo&color=f8efd4&style=for-the-badge&logo=GitHub"/>
 <p>
     Tenho 20 anos, sou estudante de Engenharia da Computação na Universidade Federal do Amazonas e técnico em Informática pelo IFAM. Estou em busca de oportunidades para iniciar minha carreira como desenvolvedor de software/web.<br/>
     Possuo conhecimento em Java, C, Kotlin, SQL e Python, além de experiência com JavaScript, HTML e CSS.<br/>
